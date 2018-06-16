@@ -96,6 +96,7 @@ Sometimes greetings are formals, sometimes they are informal.  Here's a look at 
 | До завтра/понедельника/вторника/недели/etc. | | | 
 | Бывай | | | 
 | До связи | | | 
+| спишемся | Will write you |||
 
 
 ## Miscellaneous greetings
