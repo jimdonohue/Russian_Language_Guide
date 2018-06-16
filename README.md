@@ -13,6 +13,6 @@
 Feel free to join this project and update the following sections, to help us all learn Russian!
 
 Enjoy,
-Robert
-[Duolingo](https://www.duolingo.com/Robert424744)
+Robert     
+[Duolingo](https://www.duolingo.com/Robert424744)     
 [Memrise](https://www.memrise.com/user/RobertJamesLiguori8/)
