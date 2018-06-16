@@ -11,6 +11,6 @@ This Russian language guide, is just that, an information guide to help you with
 * [Indeclinable Russian Nouns](https://github.com/robertjliguori/Russian_Language_Guide/blob/master/sections/indeclinable.md)
 * [Helpful Russian Language Resources](https://github.com/robertjliguori/Russian_Language_Guide/blob/master/sections/resources.md)
 
-If for those looking for the [Duolingo apple](https://www.duolingo.com/comment/11530319$from_email=comment&comment_id=27667533)... вот яблоко.
+For those looking for the [Duolingo apple](https://www.duolingo.com/comment/11530319$from_email=comment&comment_id=27667533)... вот яблоко.
 
 ![Apple](/images/apple.jpg)
