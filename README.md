@@ -11,4 +11,7 @@
 * [Resources](https://github.com/robertjliguori/Russian_Language_Guide/blob/master/sections/resources.md)
 
 Feel free to join this project and update the following sections, to help us all learn Russian!
+
+Enjoy,
+[Robert](https://www.duolingo.com/Robert424744)
  
