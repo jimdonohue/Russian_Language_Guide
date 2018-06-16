@@ -1,6 +1,6 @@
 # Russian Language Guide
 
-Feel free to join this project and update the following sections, to help us all learn Russian!
+Приве́т! This Russian Language Guide presents information to help learn the Russian language.
 
 * [Pronunciation](https://github.com/robertjliguori/Russian_Language_Guide/blob/master/sections/pronunciation.md)
 * [Cognates](https://github.com/robertjliguori/Russian_Language_Guide/blob/master/sections/cognates.md)
@@ -10,4 +10,5 @@ Feel free to join this project and update the following sections, to help us all
 * [Indeclinable Nouns](https://github.com/robertjliguori/Russian_Language_Guide/blob/master/sections/indeclinable.md)
 * [Resources](https://github.com/robertjliguori/Russian_Language_Guide/blob/master/sections/resources.md)
 
+Feel free to join this project and update the following sections, to help us all learn Russian!
  
