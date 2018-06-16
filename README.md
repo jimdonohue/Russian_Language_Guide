@@ -1,8 +1,6 @@
 # Russian Language Guide
 
-Приве́т! 
-
-This Russian language guide presents information to help you improve your fluency with the Russian language.
+This Russian language guide, is just that, an information guide to help you with the Russian language.
 
 * [Russian alphabet pronunciation](https://github.com/robertjliguori/Russian_Language_Guide/blob/master/sections/pronunciation.md)
 * [Loanwords and/or cognates in the Russian language](https://github.com/robertjliguori/Russian_Language_Guide/blob/master/sections/cognates.md)
