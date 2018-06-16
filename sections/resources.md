@@ -16,7 +16,12 @@
 * [Russian Accentizer](http://morpher.ru/accentizer/)
 * [Translit](http://translit.net/)
 * [Dictionary](https://www.multitran.com/)
- 
+
+## Grammar
+
+* [Cooljugator: The Smart Conjugator in Russian](https://cooljugator.com/ru)
+* [Reverso Context](http://context.reverso.net/%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4/)
+
 ## Conversation websties
 * [Conversation Exchance](https://conversationexchange.com/)
 * [Interpals](https://www.interpals.net/)
