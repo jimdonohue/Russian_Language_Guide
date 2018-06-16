@@ -1,29 +1,6 @@
-# Loanwords/cognates
+# Loanwords and/or cognates in the Russian language
 
-## Duolingo Q&A
-* [Neuter Nouns and Cognates](https://www.duolingo.com/comment/27352339)
-* [я и а and cognates and femininity](https://www.duolingo.com/comment/27352265)
-* [Loanwords vs Cognates](https://www.duolingo.com/comment/27342971)
-* [English loanwords in the Russian Language](https://www.duolingo.com/comment/27032652)
-* [Russian-English Cognates](https://www.duolingo.com/comment/26972347)
-
-## Cognate Resources
-* [Explanatory dictionary of foreign words](http://megabook.ru/book/Толковый%20словарь%20иностранных%20слов%20Л.П.%20Крысина)
-* [LIST OF ETYMOLOGIES OF RUSSIAN WORDS](http://www.ezglot.com/etymologies.php?l=rus)
-* [Anglicisms in Russian Language](http://www.funrussian.com/2012/02/26/russian-anglicisms/)
-* [The Russian That You Already Know! (Cognates)](https://therussianblog.wordpress.com/2012/03/21/the-russian-that-you-already-know-cognates/)
-* [Russian-English Cognates](http://russian.languagedaily.com/wordsandphrases/russian-cognates)
-* [English Words in Russian Language](https://www.ruspeach.com/en/learning/4964/?ELEMENT_ID=4964)
-* [English Loanwords in Modern Russian Langauge](https://cdr.lib.unc.edu/indexablecontent/uuid:97fc899d-555e-4f04-b8ef-98a9e84c6172)
-* [The Great List of Russian Cognates and Similar Words](https://livefluent.com/the-great-list-of-russian-cognates-and-similar-words/)
-* [Learn Russian 7-letter spelling rule](http://www.russianforeveryone.com/Rufe/Lessons/Course1/Introduction/IntrUnit5/IntrUnit5.htm)
-* [15 Easy Russian Words that Came from English](https://www.youtube.com/watch?v=hQGrQnRLKIw)
-* [1000 Most Common Russian Words](http://masterrussian.com/vocabulary/most_common_words.htm)
-* [English-Russian, Russian-English Dictionary ](https://www.amazon.com/gp/product/0471017078/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0471017078&linkCode=as2&tag=rockfrepor-20&linkId=a87fcb9e99a364003f9c6312f83d5728)
-* [Russian/Loanwords](https://en.wikibooks.org/wiki/Russian/Loanwords#Words_from_English)
-* [THE RUSSIAN-ENGLISH LEXIS](https://www.evaeaston.com/rel/rel1.html)
-* [II. HISTORY OF LANGUAGE CONTACTS](https://www.evaeaston.com//rel/rel2.html) 
-
+Here are serveral words in the Russian language that are similar to words in the English language.  After the examples, there are resource links that explains cognates and loanwords in detail.
 
 ## А а
 
@@ -832,3 +809,19 @@
 | я́хта     | yacht     |
 | яхтамен  | yachtsman |
 
+## Cognate Resources
+* [Explanatory dictionary of foreign words](http://megabook.ru/book/Толковый%20словарь%20иностранных%20слов%20Л.П.%20Крысина)
+* [LIST OF ETYMOLOGIES OF RUSSIAN WORDS](http://www.ezglot.com/etymologies.php?l=rus)
+* [Anglicisms in Russian Language](http://www.funrussian.com/2012/02/26/russian-anglicisms/)
+* [The Russian That You Already Know! (Cognates)](https://therussianblog.wordpress.com/2012/03/21/the-russian-that-you-already-know-cognates/)
+* [Russian-English Cognates](http://russian.languagedaily.com/wordsandphrases/russian-cognates)
+* [English Words in Russian Language](https://www.ruspeach.com/en/learning/4964/?ELEMENT_ID=4964)
+* [English Loanwords in Modern Russian Langauge](https://cdr.lib.unc.edu/indexablecontent/uuid:97fc899d-555e-4f04-b8ef-98a9e84c6172)
+* [The Great List of Russian Cognates and Similar Words](https://livefluent.com/the-great-list-of-russian-cognates-and-similar-words/)
+* [Learn Russian 7-letter spelling rule](http://www.russianforeveryone.com/Rufe/Lessons/Course1/Introduction/IntrUnit5/IntrUnit5.htm)
+* [15 Easy Russian Words that Came from English](https://www.youtube.com/watch?v=hQGrQnRLKIw)
+* [1000 Most Common Russian Words](http://masterrussian.com/vocabulary/most_common_words.htm)
+* [English-Russian, Russian-English Dictionary ](https://www.amazon.com/gp/product/0471017078/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0471017078&linkCode=as2&tag=rockfrepor-20&linkId=a87fcb9e99a364003f9c6312f83d5728)
+* [Russian/Loanwords](https://en.wikibooks.org/wiki/Russian/Loanwords#Words_from_English)
+* [THE RUSSIAN-ENGLISH LEXIS](https://www.evaeaston.com/rel/rel1.html)
+* [II. HISTORY OF LANGUAGE CONTACTS](https://www.evaeaston.com//rel/rel2.html) 
