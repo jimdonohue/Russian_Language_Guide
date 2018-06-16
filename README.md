@@ -4,11 +4,11 @@
 
 This Russian language guide presents information to help you improve your fluency with the Russian language.
 
-* [Pronunciation](https://github.com/robertjliguori/Russian_Language_Guide/blob/master/sections/pronunciation.md)
-* [Cognates](https://github.com/robertjliguori/Russian_Language_Guide/blob/master/sections/cognates.md)
-* [Greetings](https://github.com/robertjliguori/Russian_Language_Guide/blob/master/sections/greetings.md)
-* [Stress](https://github.com/robertjliguori/Russian_Language_Guide/blob/master/sections/stress.md)
-* [Indeclinable Nouns](https://github.com/robertjliguori/Russian_Language_Guide/blob/master/sections/indeclinable.md)
-* [Resources](https://github.com/robertjliguori/Russian_Language_Guide/blob/master/sections/resources.md)
+* [Russian alphabet pronunciation](https://github.com/robertjliguori/Russian_Language_Guide/blob/master/sections/pronunciation.md)
+* [Loanwords and/or cognates in the Russian language](https://github.com/robertjliguori/Russian_Language_Guide/blob/master/sections/cognates.md)
+* [How to greet someone with Russian words](https://github.com/robertjliguori/Russian_Language_Guide/blob/master/sections/greetings.md)
+* [Stressed and unstressed Russian vowels](https://github.com/robertjliguori/Russian_Language_Guide/blob/master/sections/stress.md)
+* [Indeclinable Russian Nouns](https://github.com/robertjliguori/Russian_Language_Guide/blob/master/sections/indeclinable.md)
+* [Helpful Russian Language Resources](https://github.com/robertjliguori/Russian_Language_Guide/blob/master/sections/resources.md)
 
 
