@@ -64,6 +64,7 @@ Sometimes greetings are formals, sometimes they are informal.  Here's a look at 
 | у меня всё очень хорошо | I am very  well          ||
 | счастливый or счастлив  | Happy                    ||
 | грустный                | sad                      ||
+| Меня зовут Роберт       | My name is Robert        ||  
 
 ## And you
 |*Russian* | *English* |  *Formality* 
