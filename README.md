@@ -1,5 +1,6 @@
-# Russian_Language_Guide
-Russian Language Guide
+# Russian Language Guide
+
+Feel free to join this project and update the following sections, to help us all learn Russian!
 
 * [Pronunciation](https://github.com/robertjliguori/Russian_Language_Guide/blob/master/sections/pronunciation.md)
 * [Cognates](https://github.com/robertjliguori/Russian_Language_Guide/blob/master/sections/cognates.md)
