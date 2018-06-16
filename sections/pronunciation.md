@@ -1,7 +1,6 @@
 # Russian Alphabet Pronunciation
 
-* [Russian Alphabet pronunciation](https://www.duolingo.com/comment/27421406)
-* [Forvo](https://forvo.com/)
+Here's a quicklook at how letters are pronounced in the Russian language. There isn't a direct correlation between English and Russian sounds. Your best bet is to check out sounds at [Forvo](https://forvo.com/).
  
 |*Russian Letters* | *English Letters* | *Sound Examples*   |    
 |------------|------------|------------|    
