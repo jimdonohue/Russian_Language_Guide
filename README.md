@@ -11,7 +11,6 @@ This Russian language guide, is just that, an information guide to help you with
 * [Indeclinable Russian Nouns](https://github.com/robertjliguori/Russian_Language_Guide/blob/master/sections/indeclinable.md)
 * [Helpful Russian Language Resources](https://github.com/robertjliguori/Russian_Language_Guide/blob/master/sections/resources.md)
 
-
-
+If you were looking for the apple... here is the apple: вот яблоко.
 
 ![Apple](/images/apple.jpg)
