@@ -1,9 +1,8 @@
-# Resources
+# Helpful Russian Language Resources
 
 # Translators
-* [Google Translate](https://translate.google.com/)
 * [Yandex Translate](https://translate.yandex.com/)
-* [Gliesians Translate](https://gliesians.com/translate.faces)
+* [Google Translate](https://translate.google.com/)
 
 ## Online Tests
 * [https://lidenz.ru/courses/online-test/](https://lidenz.ru/courses/online-test/)
@@ -18,24 +17,23 @@
 * [Dictionary](https://www.multitran.com/)
 * [Reverso Context](http://context.reverso.net/%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4/)
 
-## Conversation websties
-* [Conversation Exchance](https://conversationexchange.com/)
-* [Interpals](https://www.interpals.net/)
-
-## Learning Websites
+## Tutorial-based Websites
 * [Russian Language Lessons](http://www.russianlessons.net/)
 * [LearnRussian](http://learnrussian.rt.com/)
 * [Russian for Everyone](http://www.russianforeveryone.com/)
 * [Master Russian](http://masterrussian.com/)
 
-## Online Learning
+## Conversation websties
+* [Conversation Exchance](https://conversationexchange.com/)
+* [Interpals](https://www.interpals.net/)
+
+## Interactive-learning Learning websites
 * [Duolingo](https://www.duolingo.com/)
-* [Lingvist](https://learn.lingvist.com/)
 * [Memrise](https://www.memrise.com/)
+* [Lingvist](https://learn.lingvist.com/)
 
-## Books
+## Helpful Russian Books
 
-* [Best Russian-learning Books](https://www.duolingo.com/comment/27595015)
 * The New Penguin Russian Course; A complete Course for beginners by Nicholas J Brown (December 1996)
 * Russian for Dummies by Andrew Kaufman, PhD (March 2012)
 * English-Russian / Russian English Dictionary by Kennght Katzner (December 1994)
