@@ -1,6 +1,6 @@
 # Helpful Russian Language Resources
 
-# Translators
+## Translators
 * [Yandex Translate](https://translate.yandex.com/)
 * [Google Translate](https://translate.google.com/)
 
