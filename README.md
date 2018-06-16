@@ -8,7 +8,6 @@ This Russian language guide presents information to help you improve your fluenc
 * [Cognates](https://github.com/robertjliguori/Russian_Language_Guide/blob/master/sections/cognates.md)
 * [Greetings](https://github.com/robertjliguori/Russian_Language_Guide/blob/master/sections/greetings.md)
 * [Stress](https://github.com/robertjliguori/Russian_Language_Guide/blob/master/sections/stress.md)
-* [Grammar](https://github.com/robertjliguori/Russian_Language_Guide/blob/master/sections/grammar.md)
 * [Indeclinable Nouns](https://github.com/robertjliguori/Russian_Language_Guide/blob/master/sections/indeclinable.md)
 * [Resources](https://github.com/robertjliguori/Russian_Language_Guide/blob/master/sections/resources.md)
 
