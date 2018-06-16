@@ -1,5 +1,10 @@
 # Resources
 
+# Translators
+* [Google Translate](https://translate.google.com/)
+* [Yandex Translate](https://translate.yandex.com/)
+* [Gliesians Translate](https://gliesians.com/translate.faces)
+
 ## Online Tests
 * [https://lidenz.ru/courses/online-test/](https://lidenz.ru/courses/online-test/)
 * [https://mgu-russian.com/en/learn/test-online/](https://mgu-russian.com/en/learn/test-online/)
