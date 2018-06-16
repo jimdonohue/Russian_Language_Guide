@@ -1,5 +1,7 @@
 # Russian Language Guide
 
+![flight](/images/apple.jpg)
+
 This Russian language guide, is just that, an information guide to help you with the Russian language.
 
 * [Russian alphabet pronunciation](https://github.com/robertjliguori/Russian_Language_Guide/blob/master/sections/pronunciation.md)
@@ -9,6 +11,6 @@ This Russian language guide, is just that, an information guide to help you with
 * [Indeclinable Russian Nouns](https://github.com/robertjliguori/Russian_Language_Guide/blob/master/sections/indeclinable.md)
 * [Helpful Russian Language Resources](https://github.com/robertjliguori/Russian_Language_Guide/blob/master/sections/resources.md)
 
-![flight](/images/apple.jpg)
+
 
 
