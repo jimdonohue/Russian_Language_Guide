@@ -12,10 +12,8 @@
 
 ## Indicates a hard consonant
 
-{width="wide", table, optional: attribute_list}
-|============|============|============|  
 |*Letter* | *Stressed* | *Not Stressed*   |    
-|============|============|============|    
+| ------------- |:-------------:| -----:|
 |а|ah|uh|
 |о|oh|ah|
 |у|oo|  |
@@ -24,10 +22,8 @@
 
 ## Indicates a soft consonent
 
-{width="wide", table, optional: attribute_list}
-|============|============|============|  
-|*Letter* | *Stressed* | *Not stressed*   |    
-|============|============|============|    
+|*Letter* | *Stressed* | *Not Stressed*   |    
+| ------------- |:-------------:| -----:|
 |я|ya |yeh|
 |ё|yo |not-applicable| 
 |ю|yoo|   |   
