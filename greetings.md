@@ -68,7 +68,6 @@
 
 ## And you
 |*Russian* | *English* |  *Formality* 
-|*Letter* | *Stressed* | *Not Stressed*   |    
 | ------------- |:-------------:| -----:|
 | А ты?	          | And you?	   |          |
 | А у Вас?	      | And you?       | Formal   |	
