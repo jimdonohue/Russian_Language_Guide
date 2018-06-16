@@ -1,6 +1,6 @@
 # Russian Language Guide
 
-Приве́т! This Russian Language Guide presents information to help learn the Russian language.
+Приве́т! This Russian language guide presents information to help learn the Russian language.
 
 * [Pronunciation](https://github.com/robertjliguori/Russian_Language_Guide/blob/master/sections/pronunciation.md)
 * [Cognates](https://github.com/robertjliguori/Russian_Language_Guide/blob/master/sections/cognates.md)
