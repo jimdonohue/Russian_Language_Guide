@@ -1,7 +1,6 @@
-# Greetings
+# How to greet someone with Russian words
 
-* [Typical Russian Greeting Exchange](https://www.duolingo.com/comment/27520491)
-* [How are you?](https://www.duolingo.com/comment/27664192)
+Sometimes greetings are formals, sometimes they are informal.  Here's a look at some common greetings using the Russian language.
 
 ## Saying Hello 
 
@@ -87,7 +86,7 @@
 | До скорого!      | See you soon       |          |
 | увидимся         | See you later      |          |
 
-## Other
+## Miscellaneous greetings
 
 |*Russian* | *English* |  *Formality* 
 | ------------- |:-------------:| -----:|
