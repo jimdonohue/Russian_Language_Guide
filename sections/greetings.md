@@ -6,8 +6,8 @@ Sometimes greetings are formals, sometimes they are informal.  Here's a look at 
 
 |*Russian* | *English* |  *Formality* 
 | ------------- |:-------------:| -----:|
-| Приве́т              | Hi                   | Informal      |  
-| Приве́тик            | Hello (sweet)        | Friendly      |
+| Приве́т              | Hi                   | Informal        |  
+| Приве́тик            | Hello                | Friendly/casual |
 | Приве́тики           | Hello                | Very Friendly |
 | Всем привет         | Hello to many people |               |
 | Здрасте             | Short hello          | Informal      |
@@ -24,10 +24,14 @@ Sometimes greetings are formals, sometimes they are informal.  Here's a look at 
 | как у тебя дела́?    | How are you?         ||
 | Как жизнь?          | How's life?          ||
 | До́брое у́тро         | Good morning         ||
+| С добрым утром      | Good morning         ||
 | До́брый день         | Good afternoon       ||
+| день добрый         | Good afternoon       ||
+| хорошего дня        | Good day / good afternoon ||
 | До́брый ве́чер        | Good evening         ||
+| вечер добрый        | Good evening         ||
 | Здоро́в              |                      ||
-| Здорова             |                      | Informal |
+| Здорова             | Hello (slang)        | Informal |
 | Здоро́г              |                      |          |
 | Что но́вого?	       | What's new? What's up?  ||	
 | добро́ пожа́ловать    | Welcome              ||
@@ -41,6 +45,9 @@ Sometimes greetings are formals, sometimes they are informal.  Here's a look at 
 | Хей                 | hey                  || 
 | хай                 | hi                   ||
 | йо                  | yo                   ||
+| Здравия желаю       | Hello (military way) ||
+| Хеллоу              | Hello (English loanword) ||
+| Салют               | Salute (English loanword) ||
 
 ## Responding to hello or 'how are you?'
 
