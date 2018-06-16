@@ -1,6 +1,6 @@
 # Russian Language Guide
 
-![flight](/images/apple.jpg)
+![Apple](/images/apple.jpg)
 
 This Russian language guide, is just that, an information guide to help you with the Russian language.
 
