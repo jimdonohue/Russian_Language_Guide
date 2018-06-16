@@ -14,5 +14,4 @@ Feel free to join this project and update the following sections, to help us all
 
 Enjoy,
 Robert     
-[Duolingo](https://www.duolingo.com/Robert424744)     
-[Memrise](https://www.memrise.com/user/RobertJamesLiguori8/)
+[Duolingo](https://www.duolingo.com/Robert424744), [Memrise](https://www.memrise.com/user/RobertJamesLiguori8/)
