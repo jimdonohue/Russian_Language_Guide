@@ -6,7 +6,6 @@
 ## Saying Hello 
 
 |*Russian* | *English* |  *Formality* 
-|*Letter* | *Stressed* | *Not Stressed*   |    
 | ------------- |:-------------:| -----:|
 | Приве́т              | Hi                   | Informal       |  
 | Приве́тик            | Hello (sweet)        | Friendly       |
@@ -48,7 +47,6 @@
 ## Responding to hello
 
 |*Russian* | *English* |  *Formality* 
-|*Letter* | *Stressed* | *Not Stressed*   |    
 | ------------- |:-------------:| -----:|
 | Отли́чно                 | Excellent     ||
 | хорошо́                  | Fine          ||	
@@ -81,7 +79,6 @@
 ## Saying Goodbye
 
 |*Russian* | *English* |  *Formality* 
-|*Letter* | *Stressed* | *Not Stressed*   |    
 | ------------- |:-------------:| -----:|
 | До свида́ния      | Goodbye            | Formal   | 
 | пока́             | Bye                | Informal |
@@ -94,7 +91,6 @@
 ## Other
 
 |*Russian* | *English* |  *Formality* 
-|*Letter* | *Stressed* | *Not Stressed*   |    
 | ------------- |:-------------:| -----:|
 | как тебя зовут? | what's your name? || 
 | ты гений!       | You are a genius! ||
