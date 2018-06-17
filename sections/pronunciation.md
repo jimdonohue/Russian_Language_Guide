@@ -40,4 +40,15 @@ Here's a quicklook at how letters are pronounced in the Russian language. There 
 |you| Ю ю|Yu yu   | you, Yukon, use, user, universe, Utah |
 |eh| Я я|Ya ya   | yard, yahoo, y'all, yummy, yak |
  
- 		 
+## Voicing and Devoicing consonents
+
+The following consonents are devoiced when they are the last letter of a word.
+
+|*Character* |*Voiced sound* |*Devoiced sound* | 
+|------------|------------|------------|
+| б | beh | p  | 
+| в | veh | f  | 
+| г | geh | k  | 
+| д | deh | t  | 
+| ж | zhe | sh | 
+| з | zeh | s  | 
