@@ -57,7 +57,6 @@ Here are serveral words in the Russian language that sound similar to words in t
 |аутсо́рсинг         | outsourcing |
 |аэропла́н           | aeroplane   |
 |аэропо́рт           | aeroport    |
-|топо́р              | ax          |
 
 ## Б б
 
@@ -114,7 +113,7 @@ Here are serveral words in the Russian language that sound similar to words in t
 |бу́шель       | bushel        |
 |де́вушка      | baby (slang)  |  
 |бюдже́т       | budget        |
-|же́нская грудь| bust          |
+|бюст         | bust          |
 
 ## В в
 
