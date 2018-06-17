@@ -8,14 +8,14 @@ Sometimes greetings are formals, sometimes they are informal.  Here's a look at 
 | ------------- |:-------------:| -----:|
 | Приве́т              | Hi                   | Informal        |  
 | Приве́тик            | Hello                | Friendly/casual |
-| Приве́тики           | Hello                | Very Friendly |
-| Всем привет         | Hello to many people |               |
-| Здрасте             | Short hello          | Informal      |
-| Здравствуй          | Hello                | Informal      |
-| Здра́вствуйте        | Hello                | Formal        |
-| Как ты́?             | How are you?         | Informal      |
-| Как твои́ дела́?      | How are you?         | Informal      |
-| Как тебя́ дела́?      | How are you?         | Informal      |
+| Приве́тики           | Hello                | Very Friendly   |
+| Всем привет         | Hello to many people |                 |
+| Здрасте             | Short hello          | Informal        |
+| Здравствуй          | Hello                | Informal        |
+| Здра́вствуйте        | Hello                | Formal          |
+| Как ты́?             | How are you?         | Informal        |
+| Как твои́ дела́?      | How are you?         | Informal        |
+| Как тебя́ дела́?      | How are you?         | Informal        |
 | Как ва́ши дела́?      | How are you?         | For talking to a group of people | 
 | Как у Вас дела́?     | How are you doing?   | For talking to a group of people |
 | Как дела́?           | How are you?         | Informal,to one or more people |
@@ -31,23 +31,24 @@ Sometimes greetings are formals, sometimes they are informal.  Here's a look at 
 | До́брый ве́чер        | Good evening         ||
 | вечер добрый        | Good evening         ||
 | Здоро́в              |                      ||
-| Здорова             | Hello (slang)        | Informal |
-| Здоро́г              |                      |          |
-| Что но́вого?	       | What's new? What's up?  ||	
-| добро́ пожа́ловать    | Welcome              ||
-| рад вас видеть      | Nice to see you      ||
-| Как вас зовут?      | What's your name?    ||
-| А как тебя зовут?   | What's your name?    ||
-| как настроение?     | How is your mood?    ||
-| как твое настроение?| How is your mood?    ||
-| Алло                | Hello                ||
-| Хаюшки              | Hello                ||
-| Хей                 | hey                  || 
-| хай                 | hi                   ||
-| йо                  | yo                   ||
-| Здравия желаю       | Hello (military way) ||
-| Хеллоу              | Hello (English loanword) ||
+| Здорова             | Hello (slang)          | Informal |
+| Здоро́г              |                        ||
+| Что но́вого?	       | What's new? What's up? ||	
+| добро́ пожа́ловать    | Welcome                ||
+| рад вас видеть      | Nice to see you        ||
+| Как вас зовут?      | What's your name?      ||
+| А как тебя зовут?   | What's your name?      || 
+| как настроение?     | How is your mood?      ||
+| как твое настроение?| How is your mood?      ||
+| Алло                | Hello                  ||
+| Хаюшки              | Hello                  ||
+| Хей                 | hey                       || 
+| хай                 | hi                        ||
+| йо                  | yo                        ||
+| Здравия желаю       | Hello (military way)      ||
+| Хеллоу              | Hello (English loanword)  ||
 | Салют               | Salute (English loanword) ||
+| У тебя всё хорошо?  | Are you Okay? ||
 
 ## Responding to hello or 'how are you?'
 
@@ -92,11 +93,11 @@ Sometimes greetings are formals, sometimes they are informal.  Here's a look at 
 | До скорого!      | See you soon       |          |
 | Споко́йной но́чи   | Good night         |          |  
 | Прощай/прощайте  |                    |          |
-| До скорых встреч | | | 
+| До скорых встреч |                    |          | 
+| Бывай            |                    |          | 
+| До связи         |                    |          | 
+| спишемся         | Will write you     |          |
 | До завтра/понедельника/вторника/недели/etc. | | | 
-| Бывай | | | 
-| До связи | | | 
-| спишемся | Will write you |||
 
 
 ## Miscellaneous greetings
