@@ -1,6 +1,6 @@
 # Loanwords and/or cognates in the Russian language
 
-Here are serveral words in the Russian language that are similar to words in the English language.  After the examples, there are resource links that explains cognates and loanwords in detail.
+Here are serveral words in the Russian language that sound similar to words in the English language.  After the examples, there are resource links that explains cognates and loanwords in detail.
 
 ## А а
 
