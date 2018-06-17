@@ -50,14 +50,14 @@ Here are serveral words in the Russian language that are similar to words in the
 |астеро́ид           | asteroid    |
 |астрона́вт          | astronaut   |
 |атмосфе́ра          | atmosphere  |
-|афто-па́ти          | after-party |
+|вечери́нка          | after-party |
 |афе́ра              | affair      |
 |афтершок           | aftershock  |
 |аутса́йдер          | outsider    |
 |аутсо́рсинг         | outsourcing |
 |аэропла́н           | aeroplane   |
 |аэропо́рт           | aeroport    |
-|он                 | ax          |
+|топо́р              | ax          |
 
 ## Б б
 
@@ -79,7 +79,7 @@ Here are serveral words in the Russian language that are similar to words in the
 |бестсе́ллер   | bestseller    |
 |блеф         | bluff         |
 |блог         | blog          |
-|бло́ггер      | blogger       |
+|бло́гер       | blogger       |
 |блокба́стер   | blockbuster   |
 |блу́зка       | blouse        |
 |биг-мак      | big mac       | 
@@ -99,7 +99,7 @@ Here are serveral words in the Russian language that are similar to words in the
 |бо́йфренд     | boyfriend     |
 |бренд        | brand         |
 |бре́нди       | brandy        |
-|бра          | bras          |
+|бюстга́льтер  | bras          |
 |брасле́т      | bracelet      |
 |бра́узер      | browser       |
 |бро́кколи     | broccoli      |
@@ -112,9 +112,9 @@ Here are serveral words in the Russian language that are similar to words in the
 |бульдо́зер    | bulldozer     |
 |бум          | boom          |
 |бу́шель       | bushel        |
-|бэби (slang) | baby         |  
+|де́вушка      | baby (slang)  |  
 |бюдже́т       | budget        |
-|бюст         | bust          |
+|же́нская грудь| bust          |
 
 ## В в
 
@@ -125,8 +125,8 @@ Here are serveral words in the Russian language that are similar to words in the
 |вани́ль       | vanilla       |
 |ва́за         | vase          |
 |ваучер       | voucher       | 
-|веб-ма́стер   | web-master    |
-|веб-сайт     | web-site      |
+|веб-ма́стер   | webmaster     |
+|веб-сайт     | website       |
 |вермише́ль    | vermicelli    |
 |ви́део        | video         |
 |ви́рус        | virus         |
@@ -134,7 +134,7 @@ Here are serveral words in the Russian language that are similar to words in the
 |виджет       | widget        |
 |википе́дия    | wikipedia     |
 |ви́за         | visa          |
-|ви́ски|виски́        | whiskey       |
+|ви́ски        | whiskey       |
 |вода́         | water         |
 |во́дка        | vodka         |
 |волейбо́л     | volleyball    |
@@ -155,7 +155,7 @@ Here are serveral words in the Russian language that are similar to words in the
 |генера́л    | general      |
 |гара́ж      | garage       |
 |герлы́      | girls        |  
-|гёрлфренд  | girlfriend   |
+|подру́га    | girlfriend   |
 |гимна́ст    | gymnast      |
 |гиппопота́м | hippopotamus |
 |гита́ра     | guitar       |
@@ -218,7 +218,7 @@ Here are serveral words in the Russian language that are similar to words in the
 | Египетянин  | Egyptian   |
 | Египтоло́гии | Egyptology |
 | Евчарйстня  | Eucharist  |
-| е-мэ́йл      | e-mail     |
+| име́йл       | email      |
 | евангели́ст  | evangelist |
 | евге́ника    | eugenics   |
 | е́внух       | eunuch     |
