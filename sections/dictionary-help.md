@@ -23,15 +23,16 @@ English-Russian / Russian English Dictionary by Kennght Katzner (December 1994) 
 | n.m.    | noun male         |
 | n.f.    | noun feminine     |
 | n. neut | noun neuter       |
+| adj     | adjective         |
+| pron    | pronoun           |
+| prep    | preprosition      |
 | v.      | verb              |
+| v.aux   | verb auxiliary    |
 | v.i     | verb intransitive |
 | v.r     | verb reflexive    |
 | v.t     | verb transitive   |
 | v.pfv   | verb perfective   |     
 | v.impfv | verb imperfective |     
-| adj     | adjective         |
-| pron    | pronoun           |
-| prep    | preprosition      |
 
 ## Misc
 
