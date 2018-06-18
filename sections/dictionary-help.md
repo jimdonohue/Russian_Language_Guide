@@ -1,6 +1,6 @@
 # Dictionary Help
 
-There was no legend for this dictionary; English-Russian / Russian English Dictionary by Kennght Katzner (December 1994), so this is a supplement...
+English-Russian / Russian English Dictionary by Kennght Katzner (December 1994) legend; also on pages x, xi.
 
 ## Cases
 
@@ -12,39 +12,56 @@ There was no legend for this dictionary; English-Russian / Russian English Dicti
 | acc     | accusative          |
 | acc fem | accusative feminine |
 | dat     | dative              |
-|         | accusative          |
-| prep    | prepositional       | 
-|         | instrumental        |
+| prepl   | prepositional       | 
+| instr   | instrumental        |
 
 ## Grammar
 
 |*Note* | *Definition* |    
 | ------------- | ------------- | 
-| n.      | noun            |
-| n.m.    | noun male       |
-| n.f.    | noun feminine   |
-| n. neut | noun neuter     |
-| v.      | verb            |
-| adj     | adjective       |
-|         | pronoun         |
-|         | proposition     |
+| n.      | noun              |
+| n.m.    | noun male         |
+| n.f.    | noun feminine     |
+| n. neut | noun neuter       |
+| v.      | verb              |
+| v.i     | verb intransitive |
+| v.r     | verb reflexive    |
+| v.t     | verb transitive   |
+| v.pfv   | verb perfective   |     
+| v.impfv | verb imperfective |     
+| adj     | adjective         |
+| pron    | pronoun           |
+| prep    | preprosition      |
 
 ## Misc
 
 |*Note* | *Definition* |    
 | ------------- | ------------- | 
-| also             ||
-| pres             ||
-| v.impfv & pfv    ||
-| obs              ||
-| conj             ||
-| mil              ||
-| prefix           ||
-| colloq           ||
-| past             ||
-| pfv              ||
-| infl             ||
-| v.pfv            ||
-| particle         ||
-| fem              | feminine |
+| colloq           | colloquial  |     
+| conj             | conjunction |     
+| obs              | obsolete    |     
+| mil              | military    |     
+| pfv              | perfective  |     
+| pres             | present     |     
+| infl             | inflected   |     
+| interj           | interjection|     
+| cap.             | capitalized |  
+| naut.            | nautical    |
+| pl               | plural      |
+| sing.            | singular    |
+| fem              | feminine    |
+| also             ||          
+| infl. like       ||
+| infl.            ||
+| attrib.          ||
+| printing         ||
+| indef. pron.     ||
+| 2nd gen          ||   
+| ordinal numeral  ||    
+| fig.             ||    
+| refl.            ||    
+| particle         ||     
+| past             ||     
+| prefix           ||     
+| pres.            ||
 
