@@ -9,7 +9,7 @@ This Russian language learning guide, is just that, an information guide to help
 * [Stressed and unstressed Russian vowels](https://github.com/robertjliguori/Russian_Language_Guide/blob/master/sections/stress.md)
 * [Indeclinable Russian Nouns](https://github.com/robertjliguori/Russian_Language_Guide/blob/master/sections/indeclinable.md)
 * [Helpful Russian Language Resources](https://github.com/robertjliguori/Russian_Language_Guide/blob/master/sections/resources.md)
-* [Dictionary Notes](https://github.com/robertjliguori/Russian_Language_Guide/blob/master/dictionary-help.md )
+* [Dictionary Notes](https://github.com/robertjliguori/Russian_Language_Guide/blob/master/sections/dictionary-help.md)
 
 For those looking for the [Duolingo apple](https://www.duolingo.com/comment/11530319)... вот яблоко.
 
