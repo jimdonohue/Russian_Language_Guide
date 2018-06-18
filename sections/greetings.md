@@ -36,6 +36,7 @@ Sometimes greetings are formals, sometimes they are informal.  Here's a look at 
 | Что но́вого?	       | What's new? What's up? ||	
 | добро́ пожа́ловать    | Welcome                ||
 | рад вас видеть      | Nice to see you        ||
+
 | Как вас зовут?      | What's your name?      ||
 | А как тебя зовут?   | What's your name?      || 
 | как настроение?     | How is your mood?      ||
@@ -48,7 +49,7 @@ Sometimes greetings are formals, sometimes they are informal.  Here's a look at 
 | Здравия желаю       | Hello (military way)      ||
 | Хеллоу              | Hello (English loanword)  ||
 | Салют               | Salute (English loanword) ||
-| У тебя всё хорошо?  | Are you Okay? ||
+| У тебя всё хорошо?  | Are you Okay?             ||
 
 ## Responding to hello or 'how are you?'
 
