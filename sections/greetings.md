@@ -1,4 +1,4 @@
-# How to greet someone with Russian words
+ How to greet someone with Russian words
 
 Sometimes greetings are formals, sometimes they are informal.  Here's a look at some common greetings using the Russian language.
 
@@ -36,7 +36,6 @@ Sometimes greetings are formals, sometimes they are informal.  Here's a look at 
 | Что но́вого?	       | What's new? What's up? ||	
 | добро́ пожа́ловать    | Welcome                ||
 | рад вас видеть      | Nice to see you        ||
-
 | Как вас зовут?      | What's your name?      ||
 | А как тебя зовут?   | What's your name?      || 
 | как настроение?     | How is your mood?      ||
@@ -97,9 +96,9 @@ Sometimes greetings are formals, sometimes they are informal.  Here's a look at 
 | До скорых встреч |                    |          | 
 | Бывай            |                    |          | 
 | До связи         |                    |          | 
-| спишемся         | Will write you     |          |
+| спишемся             | Will write you     |          |
+| Хорошего тебе вечера | Have a good evening     ||
 | До завтра/понедельника/вторника/недели/etc. | | | 
-
 
 ## Miscellaneous greetings
 
