@@ -111,7 +111,6 @@ Here are serveral words in the Russian language that sound similar to words in t
 |бульдо́зер    | bulldozer     |
 |бум          | boom          |
 |бу́шель       | bushel        |
-|де́вушка      | baby (slang)  |  
 |бюдже́т       | budget        |
 |бюст         | bust          |
 
@@ -154,7 +153,6 @@ Here are serveral words in the Russian language that sound similar to words in t
 |генера́л    | general      |
 |гара́ж      | garage       |
 |герлы́      | girls        |  
-|подру́га    | girlfriend   |
 |гимна́ст    | gymnast      |
 |гиппопота́м | hippopotamus |
 |гита́ра     | guitar       |
@@ -538,6 +536,7 @@ Here are serveral words in the Russian language that sound similar to words in t
 |рис      | rice       |
 |ро́бот    | robot      |
 |рома́н    | roman      |
+|рома́нс   | romance    |
 |ро́за     | rose       |
 |рок      | rock       |
 |рокер    | rocker     |
@@ -645,9 +644,9 @@ Here are serveral words in the Russian language that sound similar to words in t
 
 |*Russian* | *English* |  
 | ------------- | ------------- | 
-| Украи́на     | Uraine     |
+| Украи́на     | Ukraine     |
 | Ура́н        | Uranus     |
-| уикенд      | weekend    |
+| уик-энд     | weekend    |
 | ультима́тум  | ultimatum  |
 | университе́т | university |
 | ура́         | hurrah     |
