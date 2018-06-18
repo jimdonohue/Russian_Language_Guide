@@ -39,3 +39,6 @@
 * English-Russian / Russian English Dictionary by Kennght Katzner (December 1994)
 * Russian Picture Word Book: Learn Over 500 Commonly Used Russian Words Through Pictures (June 2003)
 * Russian Grammar (Quickstudy Academic Outline)- (Jun 2002)
+
+## Poetry
+* [From the ends to the beginning](http://max.mmlc.northwestern.edu/mdenner/Demo/endtobegin.htm)
