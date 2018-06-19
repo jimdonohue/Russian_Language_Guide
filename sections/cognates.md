@@ -180,6 +180,7 @@ Note: The best use for the table is for beginners... try to sound out the word i
 | ------------- | ------------- | 
 |дека́брь     | December   |
 |Джеймс      | James      |
+|Джейсон     | Jason      |
 |Дже́нни      | Jenni      |
 |да́йвинг     | diving     |
 |да́ма        | dame       |
