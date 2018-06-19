@@ -120,6 +120,7 @@ Note: The best use for the table is for beginners... try to sound out the word i
 
 |*Russian* | *English* |  
 | ------------- | ------------- | 
+|Висенте      | Vincent       |
 |Вокза́л       | Vauxhall      |
 |ва́куум       | vacuum        |
 |вани́ль       | vanilla       |
@@ -355,6 +356,7 @@ Note: The best use for the table is for beginners... try to sound out the word i
 |*Russian* | *English* |  
 | ------------- | ------------- | 
 | Ла́на      | Lana      |
+| Лиза      | Lisa      |
 | Ленингра́д | Lenigrad  |
 | лава́нда   | lavender  | 
 | ла́зер     | laser     |
@@ -555,6 +557,7 @@ Note: The best use for the table is for beginners... try to sound out the word i
 
 |*Russian* | *English* |  
 | ------------- | ------------- | 
+|Стиван      | Stephen     |
 |Сью́зен      | Susan       |
 |саксофо́н    | saxophone   | 
 |сала́т       | salad       |
