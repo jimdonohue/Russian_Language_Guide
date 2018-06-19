@@ -2,6 +2,8 @@
 
 Here are serveral words in the Russian language that sound similar to words in the English language.  After the examples, there are resource links that explains cognates and loanwords in detail.
 
+Note: The best use for the table is for beginners... try to sound out the word in one column, and they see if you recognize the word by looking at it's equivalent in the other column.  Have fun learning!
+
 ## А а
 
 |*Russian* | *English* |  
@@ -68,6 +70,7 @@ Here are serveral words in the Russian language that sound similar to words in t
 |бана́н        | banana        |
 |банер        | banner        |
 |банк         | bank          |
+|бале́т        | ballet        |
 |бамбу́к       | bamboo        | 
 |бар          | bar           |
 |барбекю́      | barbeque      |
@@ -148,10 +151,12 @@ Here are serveral words in the Russian language that sound similar to words in t
 |га́джет     | gadget       |  
 |газе́ль     | gazelle      |
 |rалактика  | galaxy       |
+|галере́я    | gallery      |
 |Га́мбургер  | hamburger    |  
 |генера́л    | general      |
 |гара́ж      | garage       |
 |герлы́      | girls        |  
+|гид        | guide        |
 |гимна́ст    | gymnast      |
 |гиппопота́м | hippopotamus |
 |гита́ра     | guitar       |
@@ -172,6 +177,7 @@ Here are serveral words in the Russian language that sound similar to words in t
 
 |*Russian* | *English* |  
 | ------------- | ------------- | 
+|дека́брь     | December   |
 |Джеймс      | James      |
 |Дже́нни      | Jenni      |
 |да́йвинг     | diving     |
@@ -184,6 +190,7 @@ Here are serveral words in the Russian language that sound similar to words in t
 |день        | day        |
 |департа́мент | department |
 |дефо́лт      | default    |
+|десе́рт      | dessert
 |дециме́тр    | decimeter  |
 |джаз        | jazz       |
 |джем        | jam        |
@@ -378,6 +385,8 @@ Here are serveral words in the Russian language that sound similar to words in t
 |*Russian* | *English* |  
 | ------------- | ------------- | 
 | Мерку́рий     | Mercury      |
+| май          | May          |
+| март         | March        |
 | маникю́р      | manicure     |
 | магни́т       | magnet       |
 | майо́р        | mayor        |
@@ -447,6 +456,7 @@ Here are serveral words in the Russian language that sound similar to words in t
 | окей             | okay        |
 | океа́н            | ocean       |
 | океа́нский ла́йнер | ocean liner |
+| октя́брь          | October     |
 | оли́вка           | olive       |
 | омле́т            | omelet      |
 | онла́йн           | online      |
@@ -666,6 +676,7 @@ Here are serveral words in the Russian language that sound similar to words in t
 | фе́рмер      | farmer      |
 | фильм       | film        |
 | фина́л       | final       |
+| фи́рма       | firm        |
 | фи́тнес      | fitness     |
 | флаг        | flag        | 
 | флами́нго    | flamingo    |
