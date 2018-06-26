@@ -42,6 +42,7 @@ Note: The best use for the table is for beginners... try to sound out the word i
 |ано́нс              | announce    |
 |анони́м             | anonymous   |
 |антило́па           | antelope    |
+|ансамбль           | ensemble    |
 |апперкот           | uppercut    |
 |апре́ль             | april       |
 |арка́да             | arcade      |
@@ -342,6 +343,7 @@ Note: The best use for the table is for beginners... try to sound out the word i
 |коуч            | coach   |
 |краб            | crab|
 |краудфа́ндинг    | crowd funding|
+|кран            | crane |
 |креати́в         | creative | 
 |кри́кет          | cricket|
 |крик            | creek|
@@ -413,7 +415,9 @@ Note: The best use for the table is for beginners... try to sound out the word i
 | мерчанда́йзер | merchandizer | 
 | метр         | meter        |
 | метро́        | metro        |
+| мегафо́н      | megaphone    |
 | микрофо́н     | microphone   |
+| микроскоп    | microscope   |
 | ми́ксер       | mixer        |
 | миллиме́тр    | millimeter   |
 | мисс         | miss         |
@@ -479,6 +483,7 @@ Note: The best use for the table is for beginners... try to sound out the word i
 |Петерпбург   | Petersburg|
 |паб          | pub |
 |пазл         | puzzle|
+|палитра      | palette |
 |па́нда        | panda|
 |панк         | punk|
 |па́па         | papa|
