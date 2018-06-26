@@ -583,6 +583,7 @@ Note: The best use for the table is for beginners... try to sound out the word i
 |синаго́га    | synagogue   |
 |ска́нером    | scanner     |
 |ске́летон    | skeleton    | 
+|скорпион    | scorpion    |
 |смартфо́н    | smartphone  | 
 |смог        | smog        |
 |сно́уборд    | snowboard   | 
