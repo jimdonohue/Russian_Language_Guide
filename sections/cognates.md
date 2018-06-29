@@ -52,6 +52,7 @@ Note: The best use for the table is for beginners... try to sound out the word i
 |ас                 | ace         |
 |астеро́ид           | asteroid    |
 |астрона́вт          | astronaut   |
+|астроно́мия         | astronomy   |
 |атмосфе́ра          | atmosphere  |
 |афе́ра              | affair      |
 |афтершок           | aftershock  |
@@ -488,6 +489,7 @@ Note: The best use for the table is for beginners... try to sound out the word i
 |панк         | punk|
 |па́па         | papa|
 |папарацци    | paparazzi|
+|парадокс     | paradox |
 |парашю́т      | parachute |
 |парк         | park|
 |па́ти         | party |
